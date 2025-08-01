@@ -1,4 +1,4 @@
 # Modeling 2025 course repository
-This is a repository for a BSc course at Aarhus University in the Department of Biological and Environmental Engineering.
-Use the following links to access course course materials.
-For access, send a message to the instructors.
+This is a repository for a BSc course "MOdeling" at Aarhus University in the Department of Biological and Environmental Engineering.
+Check out the [main course repository](https://github.com/au-bce-modeling-2025/home) for course materials.
+If you are enrolled in the course but do not yet have access to the course repositories through GitHub, send a message to [Sasha Hafner](https://pure.au.dk/portal/en/persons/sasha.hafner%40bce.au.dk).
